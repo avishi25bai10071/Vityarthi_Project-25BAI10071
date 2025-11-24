@@ -1,0 +1,4 @@
+Problem Statement : The goal of this project is to generate a continuous list of digits by breaking down all numbers from 1 to n. Because splitting the numbers results in the loss of their original form, an additional mechanism is required to track the source number of each digit. Using this tracking, the program should allow a user to enter any index and retrieve the full number from which the digit at that index was taken. <br>
+Scope Of the Project : <br> Handling Any Range of Numbers <br> Demonstrates Digit Processing <br> Mapping and Reverse Lookup <br>
+Target Users : Developers doing Number-Based Data Processing, Students learning Python, Programmers Practicing Logic Building <br>
+High-Level Features : Reverse mapping system, Index-based retrieval, Digit extraction Engine, Dynamic List Generator.
